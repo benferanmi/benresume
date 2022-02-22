@@ -1,0 +1,152 @@
+{
+  "main": {
+    "name": "OPAFUNSO BENJAMIN",
+    "occupation": "Front End Developer",
+    "description": "I am a professional website developer.",
+    "image": "benpic.PNG",
+    "bio": "Multitalented Front end developer with experience in web software industry. Demonstrated excellent skills in HTML, JavaScript and React. True team player with strengths in adaptability and accuracy. Innovative and technically-astute website designer well-versed in analyzing user needs and developing software to precisely meet diverse needs. Demonstrates mastery of multiple programming languages and proactively keeps up with industry trends. Driven to wear many programming hats with expertise in creating everything from new applications to new operating systems. Eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Clear understanding of Task and training in Skill. Motivated to learn, grow and excel in Industry.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "opaferanmi01@gmail.com",
+    "phone": "+234 8133252105",
+    "address": {
+      "street": "(IMADIN)",
+      "city": "(ILESA)",
+      "state": "(OSUN State)",
+      "zip": "(100001)"
+    },
+    "website": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://fb.me/benprogrammer ",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/opamarketer",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Federal university of technology akure?",
+        "degree": "Bachelor of Science",
+        "graduated": "Still schooling"
+      }
+    ],
+    "work": [
+      {
+        "company": "Futa",
+        "title": "Front End Developer ",
+        "years": "Dec 2019 - Present",
+        "description": ""
+      },
+      {
+        "company": "jadexj comp",
+        "title": "Ui and Ux designer ",
+        "years": "March 2017 - February 2020",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "Figma",
+        "level": "60%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "95%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "BOOKING AND APPOINTMENT",
+        "category": "ecommerce Clothing website",
+        "image": "slg.PNG",
+        "url": "Sledgelifecoaching.com"
+      },
+      {
+        "title": "Crypto coin website",
+        "category": "Front End Development",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "Goonblink",
+        "category": "Website I For a Musician in Usa",
+        "image": "goonslink.PNG",
+        "url": "goonslink.biz"
+      },
+      {
+        "title": "Benjamin feranmi resume",
+        "category": "",
+        "image": "resume-website.jpg",
+        "url": ""
+      },
+      {
+        "title": "Mamamia",
+        "category": "Wordpress - An escort website for men and women",
+        "image": "mamamia.PNG",
+        "url": "mamamia.com"
+      },
+      {
+        "title": "Booksusi",
+        "category": "Wordpress - An escort website for men and women",
+        "image": "book.PNG",
+        "url": "booksusi.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
